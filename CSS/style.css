@@ -8,3 +8,12 @@ h1 {
 .cd {
     display: inline-block !important;
 }
+
+body {
+    align-items: center;
+}
+
+.bl {
+    width: 700px;
+    margin: auto;
+}
